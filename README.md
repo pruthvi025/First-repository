@@ -1,4 +1,4 @@
 # First-repository
 hii,my self pruthvi
 <br>
-b.tech student
+b.tech (cse)
